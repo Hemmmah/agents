@@ -1,0 +1,4 @@
+{
+  "name": "lev-os/agents skills workspace",
+  "install": "bash .cursor/install.sh"
+}
